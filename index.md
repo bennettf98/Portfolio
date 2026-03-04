@@ -2,26 +2,23 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+ # Bennett Franzen Personal Portfolio
 
-[Link to another page](./another-page.html).
+[sample link code to use elsewhere on site eventually](./another-page.html).
 
-There should be whitespace between paragraphs.
+My name is Bennett Franzen and I am currently a senior at the University of Kentucky pursuing a Bachelor's of Science in Information Communication Technology and a minor in Business.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+more personal info more personal info
 
 ## Header 2
 
-> This is a blockquote following a header.
+> sample blockquote idk if needed
 >
-> When something is important enough, you do it even if the odds are not in your favor.
+>hi
 
 ### Header 3
-
+pre-provided coding examples (will delete, inspiration to include personal code or something here?)
 ```js
 // Javascript code with syntax highlighting.
 var fun = function lang(l) {
@@ -39,18 +36,18 @@ end
 
 #### Header 4
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+*   unordered list, idk if needed later
+*   .
+*   hi
 
 ##### Header 5
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+1.  ordered list, idk if needed later
+2.  .
+3.  hi
 
 ###### Header 6
-
+sample table, could be useful
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
 | ok           | good swedish fish | nice  |
@@ -61,22 +58,23 @@ end
 ### There's a horizontal rule below this.
 
 * * *
+these asterisks create an actual line to break stuff up! **very useful**
 
-### Here is an unordered list:
+### longer sample unordered list:
 
 *   Item foo
 *   Item bar
 *   Item baz
 *   Item zip
 
-### And an ordered list:
+### longer sample ordered list:
 
 1.  Item one
 1.  Item two
 1.  Item three
 1.  Item four
 
-### And a nested list:
+### nested list sample:
 
 - level 1 item
   - level 2 item
@@ -93,6 +91,7 @@ end
 - level 1 item
 
 ### Small image
+image example, this sample code absolutely crucial for my images
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
@@ -100,9 +99,9 @@ end
 
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
-
+(cat pic is still there but branching not bc branching got deleted with everything else, cat is in assets and will get deleted eventually)
 ### Definition lists can be used with HTML syntax.
-
+HTML works in this too! (**should use as its like my top strength for web dev**)
 <dl>
 <dt>Name</dt>
 <dd>Godzilla</dd>
@@ -116,6 +115,8 @@ end
 
 ```
 Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
+
+boxed text is cool will try to use this (apostrophe's around this make it a box, but not sure how it all goes on one line like that)
 ```
 
 ```
