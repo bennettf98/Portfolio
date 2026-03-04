@@ -3,9 +3,10 @@ layout: default
 ---
 
  # Bennett Franzen Personal Portfolio
- **problems with chatgpt instructions on how to localhost (chatgpt talked ab 'remote theme' by deleting most files from imported theme to make it my own as seen currently in this repo, research if this is right or redo repo)**
+ 
+used vscode's own ai, gave me needed code line in gemfile to make theme work, then told me to do bundle exec jekyll serve to localhost, which worked and showed changes i've made! USE THIS AI FOR HELP INSTEAD, not gpt
 
-
+api token: expires on april 3rd, used for local hosting, github->settings->developer settings->personal access tokens->fine grained tokens
 
 [sample link code to use elsewhere on site eventually](./another-page.html).
 
