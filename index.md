@@ -3,7 +3,7 @@ layout: default
 ---
 
  # Bennett Franzen Personal Portfolio
- **chatgpt may have broken ALL OF THIS SHIT im pissed idk if it will work the local host shows the site without the changes idk what the fuck to do kill me please**
+ **problems with chatgpt instructions on how to localhost (chatgpt talked ab 'remote theme' by deleting most files from imported theme to make it my own as seen currently in this repo, research if this is right or redo repo)**
 
 
 
